@@ -1,0 +1,2 @@
+Texto teste exercício com o git
+Estou alterando este arquivo
